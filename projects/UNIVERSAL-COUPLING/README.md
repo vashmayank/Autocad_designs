@@ -1,6 +1,6 @@
 # 🔩 Universal Coupling – CAD Design Project
 
-This project is a complete mechanical design and technical documentation of a **Universal Coupling**, modeled and detailed by **Mayank**, a mechanical design engineering student focused on precision and real-world CAD practices.
+This project is a complete mechanical design and technical documentation of a **Universal Coupling**, modeled and detailed by **Me**, a mechanical design engineering student focused on precision and real-world CAD practices.
 
 ---
 
